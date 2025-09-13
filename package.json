@@ -1,0 +1,24 @@
+{
+  "name": "clipnep",
+  "version": "1.0.0",
+  "description": "FrameNep is a lightning-fast video thumbnail generator that automatically picks the perfect frame from any video. Create high-quality, ready-to-use thumbnails instantly for YouTube, social media, or apps—no editing skills needed. Fast, easy, and pro-level results every time.",
+  "keywords": [
+    "Nepal",
+    "nep"
+  ],
+  "homepage": "https://github.com/abhayabikramshahi/thumb-generator#readme",
+  "bugs": {
+    "url": "https://github.com/abhayabikramshahi/thumb-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhayabikramshahi/thumb-generator.git"
+  },
+  "license": "MIT",
+  "author": "Abhaya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
